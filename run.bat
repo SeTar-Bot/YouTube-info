@@ -2,7 +2,7 @@
 
 color 4
 
-title YouTube-info - By Hadi.Az
+title YouTube-info - By -its^Hadi.Az^#1405
 
 :top
 
