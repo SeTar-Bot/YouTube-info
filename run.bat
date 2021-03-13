@@ -2,7 +2,7 @@
 
 color 4
 
-title Calendar-bot - By Hadi.Az
+title YouTube-info - By Hadi.Az
 
 :top
 
