@@ -5,7 +5,6 @@ const client = new Discord.Client();
 const token = "BOT_TOKEN";
 const ytid = "CHANNEL_ID";
 const ytkey = "YouTube_API_KEY";
-let settings = { method: "Get" };
 let updateTime = 3600000; // Update Youtube Information?
 let information;
 // ==============================
